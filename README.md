@@ -1,18 +1,18 @@
-# 🪓 Habibullo's Minecraft GitHub 🏰
+<!-- Hacker Intro Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=800&lines=🛡️+Welcome+to+Habibullo's+Cyber+World;💀+Ethical+Hacker+%7C+Developer+%7C+Tech+Explorer;👨‍💻+Coding+...+Hacking+...+Conquering+the+Matrix">
+</p>
 
-**👋 Salom! Men Habibullo**  
-Minecraft kabi bloklardan ilhomlangan loyiha va kodlarimni shu yerda saqlayman!  
-
----
-
-## 🎮 Mening loyihalarim
-
-| Loyiha | Tavsif | Holati |
-|--------|--------|--------|
-| **MineShop** | Minecraft uslubida online do‘kon demo | 🟢 Ishlayapti |
-| **BlockGame** | 2D blok o‘yini | 🟡 Ishlanmoqda |
-| **PixelArtGen** | Piksel art generator | 🔴 Beta |
+<!-- Matrix GIF Background -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="700"/>
+</p>
 
 ---
 
-## ⚒️ Texnologiyalar
+# 👨‍💻 Who Am I?
+```diff
++ Full‑Stack Developer
++ Cyber Security Enthusiast
++ Bug Hunter
++ Backend Mastermind
