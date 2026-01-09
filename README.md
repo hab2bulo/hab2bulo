@@ -1,18 +1,18 @@
-<!-- Typing Animation - Minimal Hacker Aura -->
+<!-- Typing Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&width=650&lines=Backend+Engineer;API+Architect;Security+Minded+Developer;Building+Scalable+Systems...;Welcome+to+My+Codebase" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=800&lines=🛡️+Habibullo+|+Backend+Engineer+%7C+Ethical+Hacker+%7C+Code+Master;💻+Building+Secure+&+Scalable+Systems;⚡+Minimalist+&+Efficient">
 </p>
 
-<!-- Clean Minimal Banner -->
+<!-- Minimal Hacker Aura GIF -->
 <p align="center">
   <img src="https://github.com/irazasyed/awesome-images/blob/master/terminal-hacker.gif?raw=true" width="650"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 ```diff
 + Backend Developer
-+ Problem Solver
-+ Performance Oriented
-+ Writing Clean & Secure Code
++ API Architect
++ Security Focused
++ Performance & Scalability Obsessed
