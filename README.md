@@ -1,57 +1,64 @@
-<!-- ===================== H A B I B U L L O  ===================== -->
+<!-- =========================
+      H A B I B U L L O
+========================= -->
 
-<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=👋+Salom!+Men+Habibullo;⚡+Backend+Developer;🐍+Python+%7C+Django+%7C+DRF+%7C+FastAPI;🚀+Real+Loyihalar+va+Production+ tajriba;🧠+Clean+Architecture+va+Microservices+yo'lida!">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00FF6A&center=true&vCenter=true&width=700&lines=Salom!+Men+Habibullo+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Django+%7C+API+%7C+Automation;O'sishda+to'xtamayman!+%F0%9F%92%AA" />
 </p>
 
-<!-- Hacker Matrix Style -->
-<p align="center">
-  <img src="https://i.giphy.com/media/fxeW4ZCw0YxKk/giphy.gif" width="600"/>
-</p>
 
----
+<!-- =========================
+      ABOUT ME
+========================= -->
+## 👨‍💻 Men haqimda
 
-## 🧑‍💻 Men Kimman?
-- 🔥 Backend Developer
-- 🐍 Python → Django / DRF / FastAPI
-- 🛠 API Servislar, Telegram Botlar, CRM, Automation tizimlar
-- 🎯 Maqsad: Kuchli **Backend Engineer** bo‘lish
-- 🚀 Professional, toza arxitektura va kuchli struktura tarafdoriman
+- 🔧 Backend yo‘nalishida faol ishlab kelaman  
+- 🐍 **Python + Django** asosiy stack  
+- 🛠 API servislar, real projectlar va avtomatlashtirish ishlari  
+- 🎯 Maqsad: Kuchli **Backend Engineer** bo‘lish  
+- 🚀 Hozir: Arxitektura, Clean Code, Professional Development
 
----
 
+<!-- =========================
+      SKILLS
+========================= -->
 ## 🛠 Texnologiyalar
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,redis,git,github,linux,nginx,docker,vscode" />
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
-
-## ⚡ Dynamic Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habibullo&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibullo&theme=radical" height="170"/>
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
----
 
-## 🎯 Mission
-> "Har kuni 1% o‘s — yil oxirida butunlay boshqa darajadagi odam bo‘lasan."
+<!-- =========================
+      CONTACT
+========================= -->
+## 📫 Aloqa
 
----
+<p>
+  <a href="mailto:habibullogithubgithub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-## 📫 Menga Bog‘laning
-- 📧 Email: **habibullogithubgithub@gmail.com**
-- 💬 Telegram: **https://t.me/KOMILOVHABIBULLo**
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/PC7bP8S.gif" width="300">
+  <a href="https://t.me/KOMILOVHABIBULLo">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-<b>⚡ “Coding — bu ish emas, bu san’at.” ⚡</b>
-</p>
 
+<!-- =========================
+      MOTIVATION
+========================= -->
+## 🧠 Kunlik motivatsiya
+> Har kuni 1% o‘s — yil oxiriga borib sen bir necha baravar kuchliroq bo‘lasan. 🚀
+
+---
