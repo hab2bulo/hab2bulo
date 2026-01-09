@@ -1,52 +1,57 @@
-<!-- Typing Animated Header -->
+<!-- ===================== H A B I B U L L O  ===================== -->
+
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=700&lines=👋+Salom!+Men+Mehriddin+%7C+Backend+Developer;🚀+Backend+yo'nalishda+faol;🐍+Python,+Django,+DRF,+FastAPI;🛠+API,+Telegram+Bot,+CRM;+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=👋+Salom!+Men+Habibullo;⚡+Backend+Developer;🐍+Python+%7C+Django+%7C+DRF+%7C+FastAPI;🚀+Real+Loyihalar+va+Production+ tajriba;🧠+Clean+Architecture+va+Microservices+yo'lida!">
 </p>
 
-<!-- Minimal Hacker Vibe GIF -->
+<!-- Hacker Matrix Style -->
 <p align="center">
-  <img src="https://github.com/irazasyed/awesome-images/blob/master/terminal-hacker.gif?raw=true" width="600"/>
-</p>
-
----
-
-## 🔧 Men haqimda qisqa
-- Backend yo‘nalishida faol ishlayman  
-- Real loyihalar: Python, Django, DRF, FastAPI  
-- Telegram botlar, API servislar, CRM va avtomatlashtirilgan tizimlar  
-- Maqsad: professional backend engineer bo‘lish  
-- Hozirda o‘rganayapman: clean architecture, mikroservislar, tizimli backend arxitektura  
-
----
-
-## 🛠 Texnologiyalar va Ko‘nikmalar
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## ⚡ Animatsion Badge’lar
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehr1dd1n&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://i.giphy.com/media/fxeW4ZCw0YxKk/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## 📫 Aloqa
-- Telegram: [@mehriddin](https://t.me/KOMILOVHABIBULLo)  
-- Email: [mehriddin@mail.com](habibullogithubgithub@gmail.com)  
+## 🧑‍💻 Men Kimman?
+- 🔥 Backend Developer
+- 🐍 Python → Django / DRF / FastAPI
+- 🛠 API Servislar, Telegram Botlar, CRM, Automation tizimlar
+- 🎯 Maqsad: Kuchli **Backend Engineer** bo‘lish
+- 🚀 Professional, toza arxitektura va kuchli struktura tarafdoriman
 
 ---
 
-## 🧠 Kunlik motivatsiya
-> “Har kuni 1% o‘s — yil oxiriga borib sen bir necha baravar kuchliroq bo‘lasan.”
+## 🛠 Texnologiyalar
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,redis,git,github,linux,nginx,docker,vscode" />
+</p>
+
+---
+
+## ⚡ Dynamic Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=habibullo&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibullo&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🎯 Mission
+> "Har kuni 1% o‘s — yil oxirida butunlay boshqa darajadagi odam bo‘lasan."
+
+---
+
+## 📫 Menga Bog‘laning
+- 📧 Email: **habibullogithubgithub@gmail.com**
+- 💬 Telegram: **https://t.me/KOMILOVHABIBULLo**
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Keep+Coding+%F0%9F%92%BB+%7C+Keep+Learning+%F0%9F%93%9D+%7C+Keep+Growing+%F0%9F%8C%9F">
+  <img src="https://i.imgur.com/PC7bP8S.gif" width="300">
 </p>
+
+<p align="center">
+<b>⚡ “Coding — bu ish emas, bu san’at.” ⚡</b>
+</p>
+
