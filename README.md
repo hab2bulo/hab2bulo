@@ -1,18 +1,18 @@
-<!-- Hacker Intro Banner -->
+<!-- Typing Animation - Minimal Hacker Aura -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=800&lines=🛡️+Welcome+to+Habibullo's+Cyber+World;💀+Ethical+Hacker+%7C+Developer+%7C+Tech+Explorer;👨‍💻+Coding+...+Hacking+...+Conquering+the+Matrix">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&width=650&lines=Backend+Engineer;API+Architect;Security+Minded+Developer;Building+Scalable+Systems...;Welcome+to+My+Codebase" />
 </p>
 
-<!-- Matrix GIF Background -->
+<!-- Clean Minimal Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="700"/>
+  <img src="https://github.com/irazasyed/awesome-images/blob/master/terminal-hacker.gif?raw=true" width="650"/>
 </p>
 
 ---
 
-# 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 ```diff
-+ Full‑Stack Developer
-+ Cyber Security Enthusiast
-+ Bug Hunter
-+ Backend Mastermind
++ Backend Developer
++ Problem Solver
++ Performance Oriented
++ Writing Clean & Secure Code
