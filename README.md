@@ -1,57 +1,68 @@
-<h1 align="center">👋 Salom! Men Mehriddinman</h1>
+<!-- ================= WELCOME HEADER ================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Salom%2C+Xush+Kelibsiz!;Men+Mehriddin+-+Backend+Dasturchiman!;Professional+Dasturiy+Tizimlar+Yarataman+🚀" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Backend+Dasturchi;Python+Django+Mutaxassisi;API+va+Telegram+Bot+Developer;Doim+Rivojlanaman+🚀" />
+  <img src="https://github.com/username/username/blob/main/banner.gif" width="80%" />
 </p>
 
 ---
 
-## 🚀 Men haqimda
-💻 Backend yo‘nalishida faol ishlab kelaman  
-🔥 Sifatli va tezkor systemalar yaratishga qiziqaman  
-🎯 Maqsad: Professional Backend Engineer bo‘lish  
+<!-- ================= ABOUT ================= -->
+## 🌟 Men haqimda
+🔥 Backend yo‘nalishida tajribali dasturchi  
+⚙ Ishonchli, tezkor va kengaytiriladigan tizimlar yarataman  
+🎯 Maqsadim — professional darajada kuchli injener bo‘lish  
+💡 Har kuni yangi texnologiya o‘rganaman
 
 ---
 
-## 🛠 Texnologiyalar
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,git,github,docker,linux,nginx" />
-</p>
-
----
-
-## 📊 GitHub Statistikam
+<!-- ================= SKILLS ================= -->
+## 🧠 Asosiy Texnologiyalar
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,docker,linux,nginx,git,github" />
 </p>
 
 ---
 
-## ⭐ Portfolio loyihalarim
-- 🔥 Marketplace platforma
-- 🤖 Telegram botlar
-- 🧾 CRM sistemalar
-- 🌍 API servislar
+<!-- ================= STATS ================= -->
+## 📈 GitHub Faoliyatim
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=neon&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
+<!-- ================= PROJECTS ================= -->
+## 🚀 Portfolio Loyihalar
+✔ Marketplace Platformalar  
+✔ Telegram Botlar  
+✔ CRM & Business Systemalar  
+✔ Kuchli API Servislar  
+
+> Repozitoriyalarimda kod sifati, toza arxitektura va real ishchi loyihalar mavjud.
+
+---
+
+<!-- ================= TROPHY ================= -->
+## 🏆 Natijalar
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+<!-- ================= CONTACT ================= -->
 ## 📬 Bog‘lanish
-- 💼 GitHub: https://github.com/username  
-- 💬 Telegram: @username  
-- ✉ Email: email@gmail.com  
+- 💼 GitHub: https://github.com/hab2bulo 
+- 💬 Telegram: https://t.me/KOMILOVHABIBULLo  
+- ✉ Email: habibullogithubgithub@gmail.com 
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&row=1&&margin-w=20" />
-</p>
-
-<h3 align="center">⭐ Agar profilim yoqsa Star bosib qo‘ying!</h3>
+<h2 align="center">⭐ Agar profilim yoqsa — STAR bosib qo‘ying! Rahmat!</h2>
