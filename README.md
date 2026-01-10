@@ -1,64 +1,57 @@
-<!-- =========================
-      H A B I B U L L O
-========================= -->
+<h1 align="center">👋 Salom! Men Mehriddinman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00FF6A&center=true&vCenter=true&width=700&lines=Salom!+Men+Habibullo+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Django+%7C+API+%7C+Automation;O'sishda+to'xtamayman!+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Backend+Dasturchi;Python+Django+Mutaxassisi;API+va+Telegram+Bot+Developer;Doim+Rivojlanaman+🚀" />
 </p>
-
-
-<!-- =========================
-      ABOUT ME
-========================= -->
-## 👨‍💻 Men haqimda
-
-- 🔧 Backend yo‘nalishida faol ishlab kelaman  
-- 🐍 **Python + Django** asosiy stack  
-- 🛠 API servislar, real projectlar va avtomatlashtirish ishlari  
-- 🎯 Maqsad: Kuchli **Backend Engineer** bo‘lish  
-- 🚀 Hozir: Arxitektura, Clean Code, Professional Development
-
-
-<!-- =========================
-      SKILLS
-========================= -->
-## 🛠 Texnologiyalar
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-
-<!-- =========================
-      CONTACT
-========================= -->
-## 📫 Aloqa
-
-<p>
-  <a href="mailto:habibullogithubgithub@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://t.me/KOMILOVHABIBULLo">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
-
-<!-- =========================
-      MOTIVATION
-========================= -->
-## 🧠 Kunlik motivatsiya
-> Har kuni 1% o‘s — yil oxiriga borib sen bir necha baravar kuchliroq bo‘lasan. 🚀
 
 ---
+
+## 🚀 Men haqimda
+💻 Backend yo‘nalishida faol ishlab kelaman  
+🔥 Sifatli va tezkor systemalar yaratishga qiziqaman  
+🎯 Maqsad: Professional Backend Engineer bo‘lish  
+
+---
+
+## 🛠 Texnologiyalar
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,git,github,docker,linux,nginx" />
+</p>
+
+---
+
+## 📊 GitHub Statistikam
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ⭐ Portfolio loyihalarim
+- 🔥 Marketplace platforma
+- 🤖 Telegram botlar
+- 🧾 CRM sistemalar
+- 🌍 API servislar
+
+---
+
+## 📬 Bog‘lanish
+- 💼 GitHub: https://github.com/username  
+- 💬 Telegram: @username  
+- ✉ Email: email@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&row=1&&margin-w=20" />
+</p>
+
+<h3 align="center">⭐ Agar profilim yoqsa Star bosib qo‘ying!</h3>
