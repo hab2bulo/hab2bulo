@@ -1,68 +1,39 @@
-<!-- ================= WELCOME HEADER ================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Salom%2C+Xush+Kelibsiz!;Men+Mehriddin+-+Backend+Dasturchiman!;Professional+Dasturiy+Tizimlar+Yarataman+🚀" />
-</h1>
+<!-- ===================== PREMIUM PORTFOLIO README ===================== -->
 
-<p align="center">
-  <img src="https://github.com/username/username/blob/main/banner.gif" width="80%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Salom%20Men%20Habibullo!&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+<!-- INTRO -->
+## 👨‍💻 Men Haqimda
+Backend yo‘nalishida ishlaydigan dasturchiman. Real loyihalar, toza arxitektura va sifatli kod yozishga e’tibor beraman.  
+Doim rivojlanaman va yangi texnologiyalarni o‘rganishga qiziqaman. 🚀
+
+---
+
+## ⚙️ Texnologiyalar
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,docker,linux,git,github,nginx" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-## 🌟 Men haqimda
-🔥 Backend yo‘nalishida tajribali dasturchi  
-⚙ Ishonchli, tezkor va kengaytiriladigan tizimlar yarataman  
-🎯 Maqsadim — professional darajada kuchli injener bo‘lish  
-💡 Har kuni yangi texnologiya o‘rganaman
+## 🚀 Qanday Loyihalar Qilganman?
+✔ Marketplace platformalar  
+✔ Telegram botlar  
+✔ CRM tizimlar  
+✔ API servislar  
+
+> Maqsadim — kuchli va professional backend injener bo‘lish.
 
 ---
 
-<!-- ================= SKILLS ================= -->
-## 🧠 Asosiy Texnologiyalar
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,docker,linux,nginx,git,github" />
-</p>
+## 📬 Aloqa
+- 📧 Email: **habibullogithubgithub@gmail.com**
+- 💬 Telegram: **https://t.me/KOMILOVHABIBULLo**
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📈 GitHub Faoliyatim
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=neon&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" width="100%"/>
 
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Portfolio Loyihalar
-✔ Marketplace Platformalar  
-✔ Telegram Botlar  
-✔ CRM & Business Systemalar  
-✔ Kuchli API Servislar  
-
-> Repozitoriyalarimda kod sifati, toza arxitektura va real ishchi loyihalar mavjud.
-
----
-
-<!-- ================= TROPHY ================= -->
-## 🏆 Natijalar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-<!-- ================= CONTACT ================= -->
-## 📬 Bog‘lanish
-- 💼 GitHub: https://github.com/hab2bulo 
-- 💬 Telegram: https://t.me/KOMILOVHABIBULLo  
-- ✉ Email: habibullogithubgithub@gmail.com 
-
----
-
-<h2 align="center">⭐ Agar profilim yoqsa — STAR bosib qo‘ying! Rahmat!</h2>
+<h3 align="center">⭐ Profilim yoqsa — STAR bosib qo‘ying!</h3>
